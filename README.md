@@ -1,11 +1,11 @@
-# 📌 Python DSA & Mini Projects Repository
+#  Python DSA & Mini Projects Repository
 
 This repository contains a collection of **Python programs** focused on **Data Structures & Algorithms (DSA)** along with a few **real-world mini projects**.  
 Each file is written in a **clear, beginner-friendly way** and is useful for **practice, interviews, and academic learning**.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ### 🔹 Array & Hashing Based Problems
 | File Name | Description |
@@ -37,7 +37,7 @@ Each file is written in a **clear, beginner-friendly way** and is useful for **p
 
 ---
 
-## 🧠 Concepts Covered
+## Concepts Covered
 - Arrays
 - Hashing
 - Prefix Sum
